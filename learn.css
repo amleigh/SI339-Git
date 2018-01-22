@@ -1,0 +1,21 @@
+/*block-element*/
+
+
+.form{
+	width: 300px;
+	background: #eee;
+}
+
+.form__input-field{
+	padding: 100px;
+
+}
+
+.form__bts{
+	background: green;
+
+}
+
+.form__btns--warning{
+	background: red;
+	}
